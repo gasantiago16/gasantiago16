@@ -3,9 +3,17 @@
 Pittsburgh, PA · Available January 2027  
 [linkedin.com/in/gasantiago16](https://linkedin.com/in/gasantiago16) · [github.com/gasantiago16](https://github.com/gasantiago16)
 
+West Point engineering-psychology grad. Army signal officer. Carnegie Mellon AI Technician.
+
 Active TS/SCI · CompTIA Security+ · Azure AI-102
 
-Army signal officer and West Point engineering-psychology graduate. Carnegie Mellon Army AI Technician program, 2025–26: LangGraph, local models, robot simulation. Now advising a missile-defense task force on communications, sensors, and modeling. Based in Pittsburgh.
+I build and run the systems that move information when it matters, from tactical networks, enterprise IT, and AI-enabled decision support. Ten years in uniform: special-operations signal, MI battalion S6 (including early Project Maven network work), company command, recruiting command that grew production about 20% two years running, and operations for an expeditionary signal battalion.
+
+In 2025–26 I completed the CMU / Army AI2C AI Technician program: DevOps, cloud-native systems, data engineering, AI/ML, and robot simulation in Omniverse / Isaac Sim. Capstone work went onto real quadrupeds. Today I advise on communications, sensors, and AI integration for high-priority defense modernization efforts.
+
+Looking for work in AI/ML, C5ISR / defense systems, and IT or program operations. Places that care about discipline, curiosity, and shipping solutions that hold up under pressure.
+
+Open to conversations. [gasantiago16@gmail.com](mailto:gasantiago16@gmail.com)
 
 ## Projects
 
@@ -27,7 +35,7 @@ Autonomy on racing quads without leaving Betaflight stick feel. Pi over MSP, GPS
 ## Education
 
 **Army Artificial Intelligence Technician Program**, Carnegie Mellon / AI2C, 2025–2026  
-Workforce program: cloud, Python, certifications, and capstone. Isaac Sim and Omniverse work toward quadruped robots.
+Workforce program: DevOps, cloud-native systems, data engineering, AI/ML, and an Omniverse / Isaac Sim capstone. That work went onto real quadrupeds.
 
 **B.S. Engineering Psychology**, United States Military Academy, West Point
 
